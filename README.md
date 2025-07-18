@@ -21,7 +21,3 @@ Based in Ciudad Real, I'm currently working at **@Sngular**. I have a knack for 
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=java,docker,spring,kafka,terraform,git,github,kubernetes,aws,rabbitmq&perline=8)](https://skillicons.dev)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiosquevedo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiosquevedo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
